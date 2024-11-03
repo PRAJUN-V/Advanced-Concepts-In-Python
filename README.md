@@ -11,3 +11,11 @@ This project is designed to explore and learn advanced concepts in the Python pr
 - defaultdict
 - deque
 
+2. Itertools in python
+
+- product
+- permutations
+- combinations
+- accumulate
+- groupby
+- infinite iterators
